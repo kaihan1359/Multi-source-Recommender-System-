@@ -7,7 +7,7 @@ Supporting information
 All datasets used in this study are publicly available.
 The Yelp dataset can be accessed via Kaggle (https://www.kaggle.com/datasets/adamamer2001/yelp-complete-open-dataset-2024)
 , and the Google Maps Restaurant dataset is available at (https://www.kaggle.com/datasets/hwwang98/google-restaurants).
- The implementation of the proposed model is provided in the supplementary materials (S3 Code).
+
 
 
 
