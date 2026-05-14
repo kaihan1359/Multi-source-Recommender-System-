@@ -1,0 +1,53 @@
+All datasets used in this study are publicly available.
+The Yelp dataset can be accessed via Kaggle (https://www.kaggle.com/datasets/adamamer2001/yelp-complete-open-dataset-2024)
+, and the Google Maps Restaurant dataset is available at (https://www.kaggle.com/datasets/hwwang98/google-restaurants).
+
+Yelp Complete Open Dataset 04.2024
+Users, Reviews, Businesses, Photos, Checkins, Tips
+
+Yelp Complete Open Dataset 04.2024
+
+Code
+
+Download
+About Dataset
+The Yelp dataset is a subset of our businesses, reviews, and user data for use in connection with academic research. Available as JSON files, use it to teach students about databases, to learn NLP, or for sample production data while you learn how to make mobile apps.
+
+6,990,280 reviews
+150,346 businesses
+200,100 pictures
+11 metropolitan areas
+908,915 tips by 1,987,897 users
+Over 1.2 million business attributes like hours, parking, availability, and ambience
+Aggregated check-ins over time for each of the 131,930 businesses
+Terms of Use
+
+Usability
+8.75
+
+License
+Other (specified in description)
+
+
+Expected update frequency
+Not specified
+
+Tags
+Business
+Image
+Health
+Text
+United States
+Restaurants
+yelp_dataset(6 files)
+About this directory
+
+Suggest Edits
+Here's the updated documentation
+
+business.json: contains business data including location data, attributes, and categories.
+review.json: contains full review text data including the user_id that wrote the review and the business_id the review is written for.
+user.json: user data including the user's friend mapping and all the metadata associated with the user.
+checkin.json: checkins on a business.
+tip.json: tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.
+photo.json: Contains photo data including the caption and classification (one of "food", "drink", "menu", "inside" or "outside").
