@@ -1,0 +1,7 @@
+Evaluated method,Precision@K,Recall@K,Coverage,Diversity
+CF (Collaborative Filtering),0.70,0.68,0.42,1.02
+CB (Content-Based),0.64,0.64,1.00,1.00
+TrustMF,0.60,0.64,0.49,1.02
+VBPR (Visual BPR),0.67,0.66,1.00,1.01
+Sentiment-Aware RS,0.67,0.67,1.00,1.01
+Hybrid (Proposed),0.79,0.68,1.00,1.06

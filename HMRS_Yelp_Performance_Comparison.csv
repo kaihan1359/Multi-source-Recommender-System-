@@ -1,0 +1,7 @@
+Method,Precision,Recall,Coverage,Diversity
+CF,0.167,0.833,0.636,0.035
+CB,0.166,0.832,0.627,0.080
+TrustMF,0.167,0.833,0.636,0.035
+VBPR,0.166,0.832,0.637,0.081
+Sentiment-Aware RS,0.167,0.833,0.635,0.035
+Hybrid (ours),0.167,0.833,0.638,0.081
